@@ -1,0 +1,2 @@
+mongodb+srv://Doles:<password>@cluster0.1jhtd.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+194.181.109.242
